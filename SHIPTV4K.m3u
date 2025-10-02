@@ -19,3 +19,5 @@ udp://@233.18.204.228:5140
 udp://@233.18.204.225:5140
 #EXTINF:-1 tvg-id="179" tvg-name="CCTV-16" tvg-logo="https://epg.deny.vip/cctv/CCTV-16.png" group-title="央视",CCTV-16 4KHDR
 udp://@233.18.204.215:5140
+#EXTINF:-1 tvg-id="144" tvg-name="北京卫视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="卫视4K",北京卫视4K
+udp://@233.18.204.209:5140
