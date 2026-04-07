@@ -6,6 +6,16 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,joyhd.net
+DOMAIN-SUFFIX,bilibili.download
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,et8.org
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
