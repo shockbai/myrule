@@ -21,3 +21,5 @@ udp://@233.18.204.225:5140
 udp://@233.18.204.215:5140
 #EXTINF:-1 tvg-id="144" tvg-name="北京卫视" tvg-logo="https://epg.deny.vip/ws/beijing.png" group-title="卫视4K",北京卫视4K
 udp://@233.18.204.209:5140
+#EXTINF:-1 tvg-id="180" tvg-name="欢笑剧场" tvg-logo="https://epg.deny.vip/df/欢笑剧场4K.png" group-title="地方",欢笑剧场4K
+udp://@233.18.204.205:5140
